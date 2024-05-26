@@ -1,27 +1,2 @@
 
   
-body {Background-color: #3;
-color: #dcdcdcc;
- 
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
-    border:1px solid
-    font-family: Arial, Helvetica, sans-serif;
-  
-  
-}
-  h1 {
-    margin: 5px;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    
-  }
-
-h3 {
-  text-align: center;
- 
-   
-}
