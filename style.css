@@ -1,13 +1,27 @@
-body { 
-  Background-color: #444444;
-  color: #dddddd;
-  font-family: Arial, Helvetica, sans-serif;
-    margin: 10% 20%;
+
+  
+body {Background-color: #ffffff;
+color: #dcdcdcc;
+ 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+    border:1px solid
+    font-family: Arial, Helvetica, sans-serif;
+  
+  
 }
-.exp-header {
-  text-align:center;
-  text-transform: uppercase;
-  Border-top: 1px solid #dddddd;
-  Border-bottom: 1px solid #dddddd;
-  Background-color: rgpa (0,0,0, 0.1)
+  h1 {
+    margin: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
+  }
+
+h3 {
+  text-align: center;
+ 
+   
 }
