@@ -1,10 +1,10 @@
-body {Background-color: #ffffff;
+ody {Background-color: #ffffff;
 color: #dcdcdcc;
  
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 1px;
     border:1px solid
     font-family: Arial, Helvetica, sans-serif;
   
@@ -19,9 +19,4 @@ color: #dcdcdcc;
   }
 
 h3 {
-  text-align: center;
- 
-   
-}
-
-  
+  text-align: center;}
