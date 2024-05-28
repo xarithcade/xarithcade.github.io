@@ -1,47 +1,14 @@
-
-body {
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #333;
-    background-color: #f6f6f6;
-  }
+body { background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  text-transform: uppercase;
+  
+}
  h1 {
     margin: 0;
     font-size: 2.5rem;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
-  }
-   .contact-info 
-h3 {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-    text-transform: uppercase;
-  }
-skills{ font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-  
-}
- .experience h3 {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-top: 20px;
-    margin-bottom: 10px;
-  }
-  
-  .experience p {
-    margin-bottom: 10px;
-  }
-  
-  .experience ul {
-    list-style: none;
-    margin-bottom: 20px;
-  }
-  
-  .experience li {
-    margin-bottom: 10px;
   }
