@@ -1,8 +1,10 @@
 body { background-color: #333;
     color: #fff;
     padding: 20px;
-    text-align: center;
+    text-align: center ;
   text-transform: uppercase;
+  border top 10px
+  
   
 }
  h1 {
@@ -11,4 +13,19 @@ body { background-color: #333;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+  }
+Skills {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+   text-align: center;
+  text-transform: uppecase
+   }
+  .education{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+    border 10px
   }
