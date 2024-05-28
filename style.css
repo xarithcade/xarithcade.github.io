@@ -1,31 +1,78 @@
-body { background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center ;
-  text-transform: uppercase;
-  border top 10px
-  
-  
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
- h1 {
-    margin: 0;
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-Skills {
-    margin: 0;
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-   text-align: center;
-  text-transform: uppecase
-   }
-  .education{
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 0 20px;
-    border 10px
-  }
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f6f6f6;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Main content styles */
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+.contact-info,
+.skills,
+.experience,
+.education {
+  margin-top: 50px;
+}
+
+.contact-info h2,
+.skills h2,
+.experience h2,
+.education h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+}
+
+.skills ul,
+.experience ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.skills li,
+.experience li {
+  margin-bottom: 10px;
+}
+
+.experience h3,
+.education h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
